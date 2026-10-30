@@ -1,0 +1,2888 @@
+TransactionID,Product
+1,Milk
+1,Bread
+1,Butter
+1,Ketchup
+1,Noodles
+2,Coffee
+2,Sugar
+2,Biscuits
+3,Milk
+3,Bread
+3,Butter
+4,Pasta
+4,Tomato Sauce
+4,Cheese
+5,Ice Cream
+5,Chocolate
+5,Pasta
+5,Chicken
+5,Tissue
+6,Juice
+6,Biscuits
+7,Oranges
+7,Juice
+7,Noodles
+8,Noodles
+8,Ketchup
+8,Chips
+8,Biscuits
+9,Cereal
+9,Milk
+9,Bananas
+9,Noodles
+9,Eggs
+10,Chocolate
+10,Ice Cream
+10,Biscuits
+10,Shampoo
+10,Ketchup
+10,Water
+11,Ice Cream
+11,Chocolate
+12,Pasta
+12,Tomato Sauce
+12,Cheese
+12,Chips
+12,Noodles
+13,Noodles
+13,Onions
+13,Water
+13,Sugar
+13,Soft Drink
+14,Chips
+14,Soft Drink
+15,Tea
+15,Sugar
+15,Biscuits
+15,Cooking Oil
+16,Chips
+16,Soft Drink
+16,Juice
+17,Salt
+17,Butter
+18,Noodles
+18,Cheese
+18,Cooking Oil
+18,Toothpaste
+18,Cereal
+19,Shampoo
+19,Soap
+19,Onions
+19,Tea
+19,Tomato Sauce
+20,Ice Cream
+20,Chocolate
+20,Tissue
+20,Onions
+21,Water
+21,Salt
+21,Coffee
+21,Sausage
+21,Fish
+22,Milk
+22,Bread
+22,Butter
+23,Tea
+23,Sugar
+23,Biscuits
+23,Cheese
+23,Oranges
+23,Sausage
+24,Rice
+24,Cooking Oil
+24,Salt
+25,Coffee
+25,Sugar
+25,Biscuits
+25,Ice Cream
+25,Tea
+26,Tea
+26,Sugar
+26,Biscuits
+26,Milk
+26,Mayonnaise
+26,Shampoo
+27,Chips
+27,Mayonnaise
+27,Sausage
+27,Flour
+27,Tea
+27,Water
+28,Yogurt
+28,Milk
+28,Cereal
+28,Fish
+28,Bread
+28,Chocolate
+29,Pasta
+29,Eggs
+29,Toothpaste
+29,Biscuits
+30,Shampoo
+30,Soap
+31,Coffee
+31,Tissue
+31,Chicken
+31,Shampoo
+31,Sugar
+31,Tomato Sauce
+32,Bread
+32,Eggs
+32,Butter
+32,Tomato Sauce
+32,Toothbrush
+32,Pasta
+33,Water
+33,Potatoes
+33,Yogurt
+33,Chocolate
+33,Pasta
+34,Cereal
+34,Milk
+34,Bananas
+35,Pasta
+35,Tomato Sauce
+35,Cheese
+35,Milk
+36,Chicken
+36,Onions
+36,Potatoes
+37,Milk
+37,Bread
+37,Butter
+37,Chocolate
+37,Shampoo
+38,Chicken
+38,Onions
+38,Potatoes
+38,Cooking Oil
+38,Toothbrush
+38,Coffee
+39,Toothpaste
+39,Chicken
+39,Pasta
+39,Detergent
+39,Bananas
+39,Flour
+40,Chicken
+40,Onions
+40,Potatoes
+40,Soft Drink
+40,Oranges
+40,Bananas
+41,Ice Cream
+41,Chocolate
+42,Chicken
+42,Onions
+42,Potatoes
+43,Ice Cream
+43,Chocolate
+43,Chips
+43,Tomato Sauce
+44,Rice
+44,Cooking Oil
+44,Salt
+44,Coffee
+44,Chicken
+44,Flour
+45,Pasta
+45,Tomato Sauce
+45,Cheese
+46,Juice
+46,Biscuits
+47,Rice
+47,Cooking Oil
+47,Salt
+48,Sugar
+48,Bananas
+48,Fish
+49,Juice
+49,Biscuits
+49,Eggs
+49,Rice
+49,Bananas
+50,Toothbrush
+50,Toothpaste
+50,Onions
+50,Ketchup
+51,Ice Cream
+51,Chocolate
+51,Sugar
+51,Cooking Oil
+51,Mayonnaise
+52,Milk
+52,Bread
+52,Butter
+53,Eggs
+53,Toothbrush
+54,Juice
+54,Biscuits
+54,Eggs
+55,Rice
+55,Cheese
+56,Chicken
+56,Onions
+56,Potatoes
+56,Apples
+57,Bread
+57,Eggs
+57,Butter
+57,Biscuits
+58,Toothbrush
+58,Toothpaste
+58,Tomato Sauce
+58,Cooking Oil
+59,Cereal
+59,Milk
+59,Bananas
+59,Noodles
+60,Chicken
+60,Onions
+60,Potatoes
+60,Sausage
+60,Cereal
+61,Milk
+61,Onions
+62,Bread
+62,Eggs
+62,Butter
+63,Pasta
+63,Tomato Sauce
+63,Cheese
+63,Tea
+63,Apples
+64,Water
+64,Ketchup
+64,Sugar
+65,Rice
+65,Cooking Oil
+65,Salt
+65,Toothpaste
+65,Milk
+66,Rice
+66,Cooking Oil
+66,Salt
+66,Chips
+66,Coffee
+67,Coffee
+67,Sugar
+67,Biscuits
+67,Cereal
+68,Pasta
+68,Tomato Sauce
+68,Cheese
+68,Salt
+68,Mayonnaise
+69,Chips
+69,Soft Drink
+70,Toothbrush
+70,Toothpaste
+70,Butter
+70,Milk
+71,Tea
+71,Sugar
+71,Biscuits
+71,Cooking Oil
+71,Fish
+72,Toothbrush
+72,Toothpaste
+73,Ice Cream
+73,Chocolate
+73,Toothpaste
+74,Cereal
+74,Milk
+74,Bananas
+74,Chicken
+75,Chips
+75,Soft Drink
+75,Butter
+75,Ice Cream
+76,Pasta
+76,Tomato Sauce
+76,Cheese
+77,Rice
+77,Cooking Oil
+77,Salt
+77,Tea
+77,Ketchup
+77,Sugar
+78,Bananas
+78,Bread
+78,Rice
+79,Bananas
+79,Pasta
+79,Noodles
+79,Sugar
+80,Ice Cream
+80,Butter
+81,Flour
+81,Onions
+81,Soft Drink
+82,Noodles
+82,Ketchup
+82,Salt
+83,Pasta
+83,Tomato Sauce
+83,Cheese
+83,Ice Cream
+83,Cereal
+83,Biscuits
+84,Soft Drink
+84,Sausage
+84,Apples
+84,Soap
+85,Milk
+85,Bread
+85,Butter
+86,Rice
+86,Toothbrush
+86,Tomato Sauce
+86,Butter
+87,Toothbrush
+87,Toothpaste
+87,Cereal
+87,Oranges
+88,Rice
+88,Cooking Oil
+88,Salt
+89,Bread
+89,Eggs
+89,Butter
+89,Mayonnaise
+90,Toothbrush
+90,Toothpaste
+91,Noodles
+91,Ketchup
+91,Apples
+92,Chicken
+92,Onions
+92,Potatoes
+92,Cereal
+92,Chocolate
+93,Sausage
+93,Mayonnaise
+93,Bananas
+93,Cereal
+94,Chips
+94,Soft Drink
+94,Cooking Oil
+95,Toothbrush
+95,Toothpaste
+95,Detergent
+96,Rice
+96,Cooking Oil
+96,Salt
+97,Pasta
+97,Tomato Sauce
+97,Cheese
+97,Water
+97,Sausage
+97,Fish
+98,Pasta
+98,Tomato Sauce
+98,Cheese
+98,Rice
+98,Chips
+98,Juice
+99,Chicken
+99,Onions
+99,Potatoes
+99,Biscuits
+99,Pasta
+100,Pasta
+100,Tomato Sauce
+100,Cheese
+100,Sugar
+101,Pasta
+101,Tomato Sauce
+101,Cheese
+101,Biscuits
+101,Sausage
+101,Onions
+102,Flour
+102,Ice Cream
+102,Fish
+102,Apples
+102,Pasta
+102,Tea
+103,Milk
+103,Bread
+103,Butter
+104,Rice
+104,Yogurt
+104,Onions
+105,Pasta
+105,Tomato Sauce
+105,Cheese
+106,Noodles
+106,Ketchup
+106,Shampoo
+106,Toothbrush
+106,Soft Drink
+107,Tissue
+107,Sausage
+107,Oranges
+107,Shampoo
+107,Potatoes
+108,Chicken
+108,Potatoes
+108,Tomato Sauce
+108,Pasta
+108,Noodles
+108,Yogurt
+108,Fish
+109,Chips
+109,Soft Drink
+109,Cheese
+109,Mayonnaise
+109,Tomato Sauce
+110,Cereal
+110,Milk
+110,Bananas
+111,Pasta
+111,Tomato Sauce
+111,Cheese
+111,Sugar
+111,Salt
+111,Biscuits
+112,Cereal
+112,Milk
+112,Bananas
+112,Onions
+112,Cheese
+112,Salt
+113,Toothbrush
+113,Bread
+113,Toothpaste
+113,Ice Cream
+113,Chicken
+114,Cereal
+114,Milk
+114,Bananas
+114,Oranges
+114,Onions
+115,Ice Cream
+115,Chocolate
+115,Yogurt
+116,Toothbrush
+116,Toothpaste
+116,Bread
+116,Ice Cream
+116,Juice
+117,Noodles
+117,Ketchup
+117,Sugar
+117,Fish
+117,Coffee
+118,Bread
+118,Apples
+118,Toothbrush
+118,Toothpaste
+118,Tissue
+118,Biscuits
+119,Tea
+119,Sugar
+119,Biscuits
+119,Salt
+119,Eggs
+119,Mayonnaise
+120,Pasta
+120,Tomato Sauce
+120,Cheese
+120,Water
+120,Ice Cream
+120,Oranges
+121,Juice
+121,Biscuits
+121,Noodles
+121,Chips
+121,Sausage
+122,Rice
+122,Cooking Oil
+122,Salt
+123,Salt
+123,Cheese
+123,Butter
+123,Bread
+124,Bread
+124,Tissue
+124,Tea
+125,Shampoo
+125,Soap
+126,Pasta
+126,Tomato Sauce
+126,Cheese
+126,Mayonnaise
+126,Bananas
+126,Rice
+127,Ice Cream
+127,Chocolate
+128,Mayonnaise
+128,Chips
+128,Toothbrush
+129,Chips
+129,Soft Drink
+129,Oranges
+129,Cooking Oil
+129,Cheese
+130,Juice
+130,Biscuits
+130,Chocolate
+131,Chips
+131,Soft Drink
+132,Butter
+132,Soft Drink
+132,Soap
+132,Oranges
+132,Water
+132,Cheese
+133,Cereal
+133,Milk
+133,Bananas
+134,Chips
+134,Oranges
+134,Water
+134,Onions
+134,Tea
+135,Ice Cream
+135,Chocolate
+135,Toothpaste
+135,Sausage
+136,Juice
+136,Biscuits
+136,Soft Drink
+136,Tomato Sauce
+137,Noodles
+137,Potatoes
+138,Shampoo
+138,Soap
+138,Juice
+138,Bread
+138,Fish
+139,Fish
+139,Cooking Oil
+139,Soft Drink
+140,Noodles
+140,Detergent
+140,Shampoo
+140,Milk
+141,Pasta
+141,Tomato Sauce
+141,Cheese
+142,Toothbrush
+142,Toothpaste
+142,Shampoo
+142,Pasta
+142,Chicken
+143,Shampoo
+143,Soap
+143,Bread
+143,Biscuits
+143,Ketchup
+144,Ice Cream
+144,Chocolate
+144,Cereal
+145,Cereal
+145,Milk
+145,Bananas
+145,Detergent
+145,Toothpaste
+145,Ice Cream
+146,Ice Cream
+146,Chocolate
+146,Water
+146,Fish
+147,Chips
+147,Soft Drink
+147,Coffee
+148,Chocolate
+148,Soap
+148,Rice
+148,Flour
+149,Shampoo
+149,Soap
+149,Tissue
+149,Yogurt
+150,Coffee
+150,Sugar
+150,Biscuits
+150,Juice
+151,Tea
+151,Sugar
+151,Biscuits
+151,Milk
+151,Toothbrush
+152,Milk
+152,Bread
+152,Butter
+153,Ice Cream
+153,Chocolate
+153,Yogurt
+154,Milk
+154,Bread
+154,Butter
+154,Yogurt
+154,Fish
+155,Milk
+155,Bread
+155,Butter
+155,Yogurt
+155,Sugar
+156,Fish
+156,Cheese
+156,Toothpaste
+156,Eggs
+156,Tea
+157,Bread
+157,Eggs
+157,Butter
+157,Coffee
+157,Ketchup
+158,Noodles
+158,Ketchup
+158,Salt
+158,Shampoo
+158,Bananas
+159,Shampoo
+159,Soap
+159,Tissue
+159,Oranges
+160,Bread
+160,Eggs
+160,Butter
+161,Ice Cream
+161,Chocolate
+162,Cooking Oil
+162,Tomato Sauce
+162,Biscuits
+163,Tea
+163,Sugar
+163,Biscuits
+164,Toothbrush
+164,Toothpaste
+164,Chicken
+164,Ketchup
+164,Butter
+165,Ice Cream
+165,Chocolate
+165,Fish
+165,Cheese
+166,Chips
+166,Soft Drink
+166,Onions
+167,Pasta
+167,Tomato Sauce
+167,Cheese
+167,Cereal
+168,Eggs
+168,Sugar
+169,Toothpaste
+169,Ketchup
+169,Potatoes
+169,Chocolate
+169,Onions
+169,Mayonnaise
+170,Chips
+170,Soft Drink
+170,Chicken
+170,Biscuits
+170,Butter
+171,Cereal
+171,Detergent
+171,Tomato Sauce
+171,Bread
+171,Biscuits
+171,Salt
+171,Toothpaste
+172,Noodles
+172,Toothpaste
+172,Butter
+172,Rice
+172,Chicken
+172,Yogurt
+172,Potatoes
+173,Toothbrush
+173,Oranges
+173,Fish
+174,Soft Drink
+174,Bananas
+174,Juice
+174,Cereal
+174,Chips
+175,Bananas
+175,Fish
+175,Ketchup
+175,Apples
+176,Butter
+176,Onions
+176,Biscuits
+176,Cereal
+176,Tomato Sauce
+176,Toothpaste
+177,Noodles
+177,Ketchup
+177,Soap
+177,Milk
+177,Toothpaste
+178,Milk
+178,Bread
+178,Butter
+178,Toothpaste
+179,Noodles
+179,Ketchup
+179,Chicken
+179,Eggs
+179,Cooking Oil
+180,Tea
+180,Sugar
+180,Biscuits
+180,Fish
+180,Soap
+181,Chicken
+181,Onions
+181,Potatoes
+181,Sugar
+182,Milk
+182,Bread
+182,Butter
+182,Coffee
+182,Noodles
+182,Sugar
+183,Coffee
+183,Sugar
+183,Biscuits
+183,Soap
+184,Sausage
+184,Noodles
+184,Bananas
+184,Chicken
+185,Onions
+185,Shampoo
+185,Tea
+186,Bread
+186,Eggs
+186,Butter
+186,Chocolate
+187,Noodles
+187,Ketchup
+187,Water
+187,Soap
+187,Mayonnaise
+188,Mayonnaise
+188,Toothbrush
+188,Fish
+188,Tea
+189,Shampoo
+189,Soap
+189,Juice
+189,Toothbrush
+190,Onions
+190,Cereal
+190,Flour
+190,Pasta
+190,Toothpaste
+191,Juice
+191,Biscuits
+191,Butter
+191,Soft Drink
+191,Sausage
+192,Ice Cream
+192,Tea
+192,Fish
+192,Butter
+192,Coffee
+193,Bread
+193,Eggs
+193,Butter
+193,Tea
+193,Fish
+194,Shampoo
+194,Soap
+195,Tea
+195,Cheese
+195,Chicken
+195,Tomato Sauce
+195,Juice
+196,Toothbrush
+196,Toothpaste
+197,Soap
+197,Ice Cream
+197,Cereal
+197,Fish
+197,Tissue
+197,Butter
+197,Cheese
+198,Chicken
+198,Onions
+198,Potatoes
+198,Salt
+198,Biscuits
+199,Coffee
+199,Sugar
+199,Biscuits
+200,Ice Cream
+200,Chocolate
+200,Bread
+200,Butter
+201,Milk
+201,Bread
+201,Butter
+201,Apples
+201,Bananas
+202,Pasta
+202,Tomato Sauce
+202,Cheese
+202,Tissue
+202,Flour
+202,Rice
+203,Bread
+203,Eggs
+203,Butter
+203,Ketchup
+203,Soap
+203,Flour
+204,Chicken
+204,Onions
+204,Potatoes
+204,Sausage
+204,Tomato Sauce
+205,Noodles
+205,Ketchup
+205,Cereal
+205,Toothpaste
+205,Sugar
+206,Cereal
+206,Milk
+206,Bananas
+206,Chicken
+206,Noodles
+207,Chips
+207,Soft Drink
+207,Bananas
+208,Pasta
+208,Ice Cream
+209,Bread
+209,Eggs
+209,Butter
+209,Juice
+209,Cheese
+210,Apples
+210,Noodles
+210,Milk
+210,Toothpaste
+210,Eggs
+210,Fish
+210,Ketchup
+211,Detergent
+211,Soft Drink
+211,Salt
+212,Bread
+212,Eggs
+212,Butter
+212,Rice
+212,Tea
+213,Butter
+213,Mayonnaise
+213,Potatoes
+213,Tissue
+213,Water
+213,Coffee
+213,Biscuits
+214,Bananas
+214,Rice
+214,Flour
+214,Coffee
+215,Yogurt
+215,Sausage
+215,Noodles
+215,Sugar
+216,Juice
+216,Biscuits
+216,Mayonnaise
+216,Water
+216,Coffee
+217,Coffee
+217,Sugar
+217,Biscuits
+217,Noodles
+218,Apples
+218,Shampoo
+218,Water
+218,Biscuits
+218,Tissue
+218,Milk
+218,Tomato Sauce
+219,Shampoo
+219,Soap
+219,Tomato Sauce
+219,Tissue
+220,Chicken
+220,Onions
+220,Potatoes
+220,Chips
+220,Salt
+221,Bread
+221,Eggs
+221,Butter
+221,Noodles
+221,Chocolate
+222,Shampoo
+222,Soap
+222,Bananas
+222,Chocolate
+223,Milk
+223,Bread
+223,Butter
+223,Soap
+223,Sugar
+224,Rice
+224,Cooking Oil
+224,Salt
+224,Oranges
+225,Chicken
+225,Onions
+225,Potatoes
+225,Tea
+225,Bananas
+225,Chips
+226,Bananas
+226,Noodles
+226,Butter
+226,Water
+226,Cooking Oil
+226,Potatoes
+227,Pasta
+227,Tomato Sauce
+227,Cheese
+227,Chocolate
+227,Bananas
+228,Chicken
+228,Onions
+228,Potatoes
+228,Eggs
+228,Apples
+229,Coffee
+229,Sugar
+229,Biscuits
+229,Chips
+229,Tomato Sauce
+229,Bread
+230,Cereal
+230,Milk
+230,Bananas
+230,Tea
+231,Cheese
+231,Shampoo
+231,Cooking Oil
+232,Juice
+232,Biscuits
+232,Water
+233,Milk
+233,Noodles
+233,Tea
+233,Coffee
+233,Soap
+233,Tomato Sauce
+234,Bread
+234,Coffee
+235,Noodles
+235,Ketchup
+235,Tissue
+236,Tea
+236,Sugar
+236,Biscuits
+236,Eggs
+236,Rice
+237,Chocolate
+237,Cheese
+237,Chicken
+237,Potatoes
+237,Water
+237,Sausage
+238,Shampoo
+238,Soap
+238,Butter
+239,Yogurt
+239,Mayonnaise
+239,Onions
+239,Bread
+239,Eggs
+239,Chicken
+239,Apples
+240,Coffee
+240,Sugar
+240,Biscuits
+240,Fish
+240,Cheese
+240,Chips
+241,Tea
+241,Sugar
+241,Biscuits
+242,Bread
+242,Eggs
+242,Butter
+242,Oranges
+242,Toothpaste
+243,Rice
+243,Cooking Oil
+243,Salt
+243,Chips
+243,Chocolate
+243,Detergent
+244,Oranges
+244,Potatoes
+244,Salt
+245,Juice
+245,Biscuits
+245,Oranges
+245,Potatoes
+245,Chocolate
+246,Cereal
+246,Milk
+246,Bananas
+246,Apples
+246,Sugar
+247,Shampoo
+247,Soap
+248,Coffee
+248,Sugar
+248,Biscuits
+249,Ice Cream
+249,Chocolate
+249,Tea
+249,Toothbrush
+250,Rice
+250,Cooking Oil
+250,Salt
+250,Chocolate
+250,Onions
+251,Chicken
+251,Onions
+251,Potatoes
+251,Eggs
+251,Ketchup
+251,Mayonnaise
+252,Bread
+252,Eggs
+252,Butter
+252,Flour
+253,Pasta
+253,Tomato Sauce
+253,Cheese
+254,Rice
+254,Cooking Oil
+254,Salt
+254,Chocolate
+254,Cereal
+255,Noodles
+255,Ketchup
+255,Toothbrush
+255,Bread
+255,Mayonnaise
+256,Chips
+256,Soft Drink
+256,Water
+256,Ice Cream
+257,Juice
+257,Biscuits
+257,Detergent
+258,Coffee
+258,Sugar
+258,Biscuits
+258,Bread
+259,Rice
+259,Cooking Oil
+259,Salt
+259,Oranges
+260,Cereal
+260,Milk
+260,Bananas
+260,Apples
+261,Cereal
+261,Milk
+261,Bananas
+262,Sugar
+262,Tissue
+262,Eggs
+263,Chips
+263,Soft Drink
+263,Onions
+263,Yogurt
+263,Chicken
+264,Pasta
+264,Tomato Sauce
+264,Cheese
+265,Coffee
+265,Sugar
+265,Biscuits
+265,Soap
+265,Toothpaste
+266,Milk
+266,Bread
+266,Butter
+266,Potatoes
+267,Milk
+267,Cooking Oil
+268,Pasta
+268,Tomato Sauce
+268,Cheese
+268,Mayonnaise
+269,Coffee
+269,Sugar
+269,Biscuits
+270,Toothbrush
+270,Toothpaste
+270,Coffee
+271,Ice Cream
+271,Chocolate
+271,Soap
+272,Chicken
+272,Onions
+272,Potatoes
+272,Cheese
+272,Apples
+273,Oranges
+273,Bread
+274,Coffee
+274,Sugar
+274,Biscuits
+274,Tissue
+274,Chicken
+275,Ice Cream
+275,Chocolate
+275,Mayonnaise
+275,Coffee
+275,Oranges
+276,Cereal
+276,Milk
+276,Bananas
+276,Sausage
+277,Biscuits
+277,Oranges
+277,Chips
+277,Pasta
+278,Toothbrush
+278,Toothpaste
+279,Chips
+279,Soft Drink
+279,Pasta
+279,Water
+280,Sausage
+280,Chocolate
+281,Pasta
+281,Tomato Sauce
+281,Cheese
+281,Apples
+281,Sugar
+282,Tea
+282,Sugar
+282,Biscuits
+282,Pasta
+282,Salt
+283,Noodles
+283,Ketchup
+284,Noodles
+284,Ketchup
+284,Fish
+284,Detergent
+284,Tissue
+285,Bread
+285,Eggs
+285,Butter
+285,Water
+285,Flour
+286,Shampoo
+286,Soap
+286,Mayonnaise
+286,Noodles
+286,Tissue
+287,Rice
+287,Cooking Oil
+287,Salt
+288,Shampoo
+288,Soap
+289,Juice
+289,Biscuits
+289,Cheese
+289,Chips
+290,Rice
+290,Cooking Oil
+290,Salt
+290,Sausage
+290,Detergent
+290,Butter
+291,Noodles
+291,Ketchup
+291,Soft Drink
+292,Rice
+292,Cooking Oil
+292,Salt
+292,Eggs
+293,Noodles
+293,Ketchup
+293,Biscuits
+293,Soap
+294,Milk
+294,Bread
+294,Butter
+294,Fish
+295,Yogurt
+295,Sugar
+295,Water
+295,Toothbrush
+295,Ketchup
+295,Ice Cream
+296,Cereal
+296,Milk
+296,Bananas
+297,Juice
+297,Cheese
+297,Tissue
+297,Chips
+297,Shampoo
+297,Ice Cream
+297,Ketchup
+298,Juice
+298,Biscuits
+298,Water
+299,Chicken
+299,Onions
+299,Potatoes
+299,Soft Drink
+300,Chicken
+300,Onions
+300,Potatoes
+300,Coffee
+300,Biscuits
+300,Mayonnaise
+301,Chicken
+301,Onions
+301,Potatoes
+301,Coffee
+301,Toothpaste
+302,Chicken
+302,Onions
+302,Potatoes
+302,Shampoo
+302,Water
+302,Bread
+303,Tea
+303,Sugar
+303,Biscuits
+303,Ice Cream
+304,Flour
+304,Salt
+304,Coffee
+304,Tea
+304,Cheese
+305,Noodles
+305,Ketchup
+306,Rice
+306,Cooking Oil
+306,Salt
+307,Noodles
+307,Ketchup
+307,Bananas
+308,Tea
+308,Sugar
+308,Biscuits
+308,Fish
+309,Cereal
+309,Milk
+309,Bananas
+309,Fish
+310,Noodles
+310,Ketchup
+310,Salt
+310,Toothpaste
+310,Pasta
+311,Noodles
+311,Ketchup
+311,Flour
+311,Apples
+311,Detergent
+312,Ketchup
+312,Ice Cream
+312,Sausage
+312,Yogurt
+312,Bananas
+313,Detergent
+313,Coffee
+313,Tomato Sauce
+314,Shampoo
+314,Soap
+314,Toothbrush
+314,Chips
+315,Chocolate
+315,Ketchup
+315,Biscuits
+315,Sugar
+315,Noodles
+315,Potatoes
+316,Oranges
+316,Biscuits
+316,Salt
+317,Bread
+317,Bananas
+317,Eggs
+317,Apples
+318,Pasta
+318,Tomato Sauce
+318,Cheese
+318,Chips
+318,Bananas
+318,Noodles
+319,Coffee
+319,Sugar
+319,Biscuits
+319,Flour
+319,Rice
+320,Juice
+320,Biscuits
+320,Tea
+320,Sausage
+320,Chicken
+321,Coffee
+321,Sugar
+321,Biscuits
+322,Juice
+322,Biscuits
+322,Toothbrush
+323,Yogurt
+323,Oranges
+323,Chocolate
+323,Ketchup
+323,Pasta
+323,Mayonnaise
+324,Pasta
+324,Tomato Sauce
+324,Cheese
+324,Sausage
+324,Biscuits
+324,Coffee
+325,Detergent
+325,Soap
+325,Bread
+325,Sausage
+325,Toothpaste
+326,Tea
+326,Sugar
+326,Biscuits
+326,Chicken
+326,Milk
+327,Pasta
+327,Tomato Sauce
+327,Cheese
+327,Flour
+327,Chips
+327,Toothpaste
+328,Yogurt
+328,Soap
+329,Rice
+329,Cooking Oil
+329,Salt
+330,Shampoo
+330,Soap
+331,Cereal
+331,Milk
+331,Bananas
+331,Butter
+331,Ice Cream
+332,Pasta
+332,Chips
+332,Toothbrush
+332,Juice
+333,Cereal
+333,Milk
+333,Bananas
+333,Flour
+333,Sausage
+334,Rice
+334,Coffee
+334,Cheese
+334,Onions
+334,Butter
+335,Milk
+335,Bread
+335,Butter
+335,Biscuits
+336,Chips
+336,Soft Drink
+336,Toothpaste
+336,Sausage
+336,Noodles
+337,Chicken
+337,Onions
+337,Potatoes
+337,Ketchup
+338,Noodles
+338,Ketchup
+339,Noodles
+339,Chocolate
+339,Water
+339,Oranges
+340,Potatoes
+340,Ice Cream
+340,Juice
+340,Rice
+340,Fish
+340,Shampoo
+340,Water
+341,Noodles
+341,Biscuits
+341,Oranges
+341,Detergent
+341,Toothbrush
+341,Rice
+342,Cereal
+342,Milk
+342,Bananas
+343,Chicken
+343,Onions
+343,Potatoes
+343,Mayonnaise
+343,Fish
+344,Toothbrush
+344,Toothpaste
+344,Potatoes
+345,Milk
+345,Bread
+345,Butter
+345,Chicken
+345,Cereal
+346,Noodles
+346,Ketchup
+347,Chicken
+347,Onions
+347,Potatoes
+347,Water
+347,Shampoo
+347,Sugar
+348,Detergent
+348,Potatoes
+348,Butter
+349,Pasta
+349,Tomato Sauce
+349,Cheese
+349,Bananas
+349,Oranges
+350,Detergent
+350,Tea
+351,Cereal
+351,Milk
+351,Bananas
+351,Fish
+351,Biscuits
+352,Rice
+352,Cooking Oil
+352,Salt
+352,Potatoes
+352,Water
+353,Pasta
+353,Tomato Sauce
+353,Cheese
+354,Tea
+354,Sugar
+354,Biscuits
+354,Toothpaste
+354,Oranges
+354,Detergent
+355,Noodles
+355,Ketchup
+355,Chicken
+355,Cooking Oil
+356,Fish
+356,Flour
+356,Chocolate
+356,Coffee
+357,Rice
+357,Potatoes
+357,Biscuits
+357,Cereal
+357,Soft Drink
+358,Soap
+358,Ketchup
+358,Mayonnaise
+358,Sugar
+358,Rice
+358,Water
+359,Coffee
+359,Sugar
+359,Biscuits
+359,Rice
+360,Shampoo
+360,Soap
+361,Bread
+361,Eggs
+361,Butter
+361,Sausage
+361,Detergent
+362,Coffee
+362,Sugar
+362,Biscuits
+363,Ice Cream
+363,Chocolate
+363,Shampoo
+363,Potatoes
+363,Detergent
+364,Cereal
+364,Milk
+364,Bananas
+365,Chicken
+365,Onions
+365,Potatoes
+365,Coffee
+365,Detergent
+366,Tea
+366,Sugar
+366,Biscuits
+366,Chicken
+367,Juice
+367,Biscuits
+368,Tea
+368,Mayonnaise
+368,Sugar
+368,Toothbrush
+368,Cereal
+368,Salt
+369,Rice
+369,Cooking Oil
+369,Salt
+369,Biscuits
+369,Mayonnaise
+370,Rice
+370,Cooking Oil
+370,Salt
+370,Coffee
+370,Soft Drink
+371,Coffee
+371,Sugar
+371,Biscuits
+371,Flour
+372,Bread
+372,Eggs
+372,Butter
+372,Tissue
+372,Biscuits
+373,Biscuits
+373,Butter
+374,Tomato Sauce
+374,Cooking Oil
+374,Toothpaste
+374,Bananas
+374,Bread
+374,Fish
+375,Ketchup
+375,Mayonnaise
+375,Chicken
+375,Pasta
+375,Apples
+375,Detergent
+376,Ice Cream
+376,Chocolate
+377,Toothbrush
+377,Toothpaste
+377,Onions
+377,Cooking Oil
+377,Juice
+378,Cereal
+378,Milk
+378,Bananas
+378,Ice Cream
+378,Potatoes
+379,Cereal
+379,Milk
+379,Bananas
+380,Shampoo
+380,Soap
+381,Pasta
+381,Tomato Sauce
+381,Cheese
+381,Chocolate
+382,Toothbrush
+382,Toothpaste
+382,Pasta
+382,Sugar
+382,Cereal
+383,Cereal
+383,Flour
+383,Sugar
+383,Fish
+383,Sausage
+383,Onions
+383,Toothpaste
+384,Bread
+384,Biscuits
+384,Apples
+384,Sausage
+384,Onions
+385,Toothbrush
+385,Soft Drink
+385,Eggs
+386,Shampoo
+386,Soap
+386,Ketchup
+386,Toothpaste
+386,Milk
+387,Coffee
+387,Tomato Sauce
+387,Water
+387,Apples
+387,Butter
+388,Bread
+388,Eggs
+388,Butter
+388,Bananas
+389,Coffee
+389,Sugar
+389,Biscuits
+389,Shampoo
+389,Fish
+389,Detergent
+390,Bread
+390,Eggs
+390,Butter
+391,Coffee
+391,Sugar
+391,Biscuits
+391,Bananas
+391,Ice Cream
+391,Detergent
+392,Flour
+392,Detergent
+392,Sausage
+393,Milk
+393,Bread
+393,Butter
+394,Ice Cream
+394,Chocolate
+394,Sausage
+394,Shampoo
+395,Bread
+395,Eggs
+395,Butter
+395,Water
+396,Sugar
+396,Apples
+396,Tissue
+396,Mayonnaise
+397,Rice
+397,Cooking Oil
+397,Salt
+397,Tissue
+397,Soft Drink
+397,Yogurt
+398,Juice
+398,Chocolate
+398,Bananas
+398,Toothbrush
+399,Ice Cream
+399,Chocolate
+400,Chips
+400,Soft Drink
+400,Eggs
+401,Tea
+401,Sugar
+401,Biscuits
+401,Flour
+401,Ketchup
+401,Butter
+402,Ice Cream
+402,Chocolate
+403,Shampoo
+403,Soap
+403,Bananas
+403,Tea
+404,Pasta
+404,Tomato Sauce
+404,Cheese
+404,Shampoo
+404,Yogurt
+404,Eggs
+405,Cooking Oil
+405,Shampoo
+405,Cereal
+405,Chicken
+405,Yogurt
+405,Ice Cream
+406,Tea
+406,Sugar
+406,Biscuits
+406,Toothbrush
+406,Ice Cream
+406,Apples
+407,Juice
+407,Biscuits
+407,Sausage
+407,Cooking Oil
+408,Shampoo
+408,Mayonnaise
+408,Salt
+408,Ketchup
+409,Fish
+409,Cereal
+409,Chicken
+409,Soft Drink
+409,Shampoo
+409,Noodles
+409,Ketchup
+410,Chicken
+410,Onions
+410,Potatoes
+410,Apples
+410,Soft Drink
+410,Tea
+411,Chips
+411,Soft Drink
+412,Shampoo
+412,Soap
+412,Chicken
+412,Cooking Oil
+413,Rice
+413,Cooking Oil
+413,Salt
+413,Detergent
+413,Cereal
+414,Bread
+414,Eggs
+414,Butter
+414,Ketchup
+415,Rice
+415,Cooking Oil
+415,Salt
+415,Noodles
+416,Toothbrush
+416,Toothpaste
+416,Chicken
+416,Chips
+417,Tea
+417,Sugar
+417,Biscuits
+418,Bananas
+418,Chicken
+418,Flour
+419,Cereal
+419,Ketchup
+419,Eggs
+419,Biscuits
+420,Pasta
+420,Tomato Sauce
+420,Cheese
+421,Bananas
+421,Rice
+421,Butter
+422,Fish
+422,Rice
+422,Ketchup
+422,Butter
+422,Milk
+423,Bread
+423,Eggs
+423,Butter
+424,Ketchup
+424,Onions
+424,Soap
+424,Yogurt
+425,Tea
+425,Sugar
+425,Biscuits
+425,Cereal
+425,Pasta
+425,Coffee
+426,Ice Cream
+426,Chocolate
+426,Noodles
+426,Flour
+426,Milk
+427,Toothpaste
+427,Flour
+427,Rice
+427,Tissue
+428,Oranges
+428,Sausage
+428,Cereal
+428,Biscuits
+428,Apples
+429,Tea
+429,Sugar
+429,Biscuits
+429,Yogurt
+430,Pasta
+430,Tomato Sauce
+430,Cheese
+431,Pasta
+431,Tomato Sauce
+431,Cheese
+431,Cereal
+431,Ice Cream
+431,Soft Drink
+432,Bread
+432,Eggs
+432,Butter
+433,Cereal
+433,Milk
+433,Bananas
+433,Cheese
+434,Shampoo
+434,Soap
+434,Sugar
+434,Apples
+435,Ice Cream
+435,Chocolate
+435,Coffee
+435,Mayonnaise
+436,Pasta
+436,Tomato Sauce
+436,Cheese
+436,Tea
+437,Shampoo
+437,Soap
+437,Bananas
+437,Toothbrush
+438,Cooking Oil
+438,Pasta
+438,Biscuits
+438,Yogurt
+438,Potatoes
+438,Toothpaste
+439,Toothpaste
+439,Chocolate
+440,Rice
+440,Cooking Oil
+440,Salt
+440,Tissue
+441,Tea
+441,Sugar
+441,Biscuits
+441,Toothpaste
+441,Fish
+442,Pasta
+442,Tomato Sauce
+442,Cheese
+442,Chips
+442,Shampoo
+442,Fish
+443,Coffee
+443,Sausage
+443,Bananas
+443,Onions
+443,Toothpaste
+444,Shampoo
+444,Soap
+444,Bread
+444,Apples
+445,Milk
+445,Bread
+445,Butter
+445,Chocolate
+446,Cereal
+446,Milk
+446,Bananas
+447,Milk
+447,Bread
+447,Butter
+448,Butter
+448,Ketchup
+448,Bananas
+448,Rice
+448,Coffee
+449,Bananas
+449,Water
+449,Ice Cream
+449,Potatoes
+449,Toothbrush
+449,Shampoo
+449,Biscuits
+450,Chicken
+450,Onions
+450,Potatoes
+450,Soft Drink
+451,Rice
+451,Cooking Oil
+451,Salt
+451,Toothpaste
+451,Coffee
+451,Noodles
+452,Mayonnaise
+452,Onions
+453,Rice
+453,Cooking Oil
+453,Salt
+453,Toothbrush
+453,Oranges
+453,Noodles
+454,Cereal
+454,Milk
+454,Bananas
+454,Ketchup
+455,Ice Cream
+455,Chocolate
+456,Chicken
+456,Onions
+456,Potatoes
+456,Bread
+456,Pasta
+456,Cooking Oil
+457,Bread
+457,Eggs
+457,Butter
+458,Chicken
+458,Onions
+458,Potatoes
+459,Milk
+459,Bread
+459,Butter
+459,Fish
+459,Noodles
+459,Toothbrush
+460,Juice
+460,Biscuits
+461,Chips
+461,Soft Drink
+461,Detergent
+462,Bread
+462,Eggs
+462,Butter
+462,Ketchup
+462,Soft Drink
+463,Yogurt
+463,Salt
+463,Bananas
+463,Mayonnaise
+463,Noodles
+463,Eggs
+463,Rice
+464,Toothbrush
+464,Toothpaste
+464,Eggs
+464,Soft Drink
+464,Ice Cream
+465,Bananas
+465,Tea
+465,Mayonnaise
+465,Ice Cream
+466,Rice
+466,Cooking Oil
+466,Salt
+466,Ketchup
+466,Noodles
+466,Soft Drink
+467,Onions
+467,Eggs
+467,Shampoo
+468,Toothbrush
+468,Toothpaste
+468,Ice Cream
+469,Pasta
+469,Tomato Sauce
+469,Cheese
+469,Chips
+469,Fish
+470,Soap
+470,Flour
+471,Toothbrush
+471,Toothpaste
+472,Toothbrush
+472,Shampoo
+472,Cooking Oil
+473,Juice
+473,Biscuits
+473,Cereal
+473,Milk
+474,Pasta
+474,Tomato Sauce
+474,Cheese
+475,Pasta
+475,Detergent
+475,Cooking Oil
+475,Apples
+475,Shampoo
+476,Chips
+476,Soft Drink
+476,Fish
+476,Toothpaste
+476,Ice Cream
+477,Cereal
+477,Milk
+477,Bananas
+477,Sausage
+477,Chocolate
+477,Yogurt
+478,Cooking Oil
+478,Water
+478,Cereal
+478,Bananas
+479,Juice
+479,Biscuits
+479,Sugar
+480,Rice
+480,Cooking Oil
+480,Salt
+480,Juice
+480,Tea
+480,Pasta
+481,Toothbrush
+481,Toothpaste
+481,Fish
+482,Chicken
+482,Onions
+482,Potatoes
+482,Tomato Sauce
+482,Soap
+483,Fish
+483,Onions
+483,Sugar
+483,Soft Drink
+483,Toothbrush
+483,Coffee
+483,Tissue
+484,Rice
+484,Cooking Oil
+484,Salt
+485,Juice
+485,Biscuits
+486,Eggs
+486,Milk
+486,Bananas
+486,Coffee
+486,Salt
+486,Cheese
+486,Tea
+487,Rice
+487,Cooking Oil
+487,Salt
+487,Bananas
+487,Eggs
+487,Yogurt
+488,Milk
+488,Bread
+488,Butter
+489,Toothbrush
+489,Toothpaste
+490,Ice Cream
+490,Chocolate
+490,Toothpaste
+490,Mayonnaise
+491,Juice
+491,Biscuits
+491,Flour
+491,Chocolate
+491,Shampoo
+492,Pasta
+492,Tomato Sauce
+492,Cheese
+492,Apples
+492,Cereal
+493,Water
+493,Apples
+494,Pasta
+494,Tomato Sauce
+494,Cheese
+494,Soft Drink
+495,Juice
+495,Biscuits
+496,Juice
+496,Biscuits
+497,Toothbrush
+497,Toothpaste
+497,Shampoo
+497,Chicken
+497,Eggs
+498,Ice Cream
+498,Chocolate
+498,Biscuits
+499,Toothbrush
+499,Toothpaste
+499,Detergent
+499,Chips
+500,Salt
+500,Cooking Oil
+501,Toothpaste
+501,Chicken
+501,Noodles
+501,Butter
+501,Cheese
+501,Toothbrush
+501,Tissue
+502,Juice
+502,Biscuits
+502,Bread
+502,Salt
+503,Noodles
+503,Ketchup
+503,Cheese
+503,Juice
+503,Sugar
+504,Bread
+504,Eggs
+504,Butter
+504,Toothbrush
+504,Ice Cream
+504,Oranges
+505,Biscuits
+505,Sausage
+505,Soft Drink
+506,Toothbrush
+506,Toothpaste
+506,Cheese
+507,Noodles
+507,Ketchup
+507,Soft Drink
+507,Bread
+507,Mayonnaise
+508,Fish
+508,Salt
+508,Soft Drink
+508,Shampoo
+508,Ice Cream
+509,Chicken
+509,Onions
+509,Potatoes
+509,Biscuits
+509,Ketchup
+509,Pasta
+510,Noodles
+510,Tea
+511,Noodles
+511,Ketchup
+511,Bananas
+512,Coffee
+512,Sugar
+512,Biscuits
+513,Chips
+513,Soft Drink
+513,Apples
+513,Ketchup
+513,Chocolate
+514,Tea
+514,Sugar
+514,Biscuits
+514,Fish
+514,Detergent
+514,Shampoo
+515,Milk
+515,Bread
+515,Butter
+516,Coffee
+516,Sugar
+516,Biscuits
+516,Oranges
+516,Milk
+517,Toothbrush
+517,Toothpaste
+518,Pasta
+518,Toothpaste
+518,Yogurt
+518,Sugar
+518,Ice Cream
+518,Detergent
+519,Chips
+519,Soft Drink
+519,Yogurt
+519,Sugar
+520,Toothbrush
+520,Toothpaste
+520,Bananas
+520,Mayonnaise
+521,Coffee
+521,Sugar
+521,Biscuits
+521,Mayonnaise
+521,Ketchup
+522,Detergent
+522,Tissue
+522,Flour
+522,Onions
+522,Chips
+523,Milk
+523,Bread
+523,Butter
+523,Ice Cream
+523,Oranges
+523,Fish
+524,Juice
+524,Biscuits
+524,Cereal
+525,Ice Cream
+525,Chocolate
+525,Sausage
+526,Toothbrush
+526,Toothpaste
+526,Ketchup
+526,Fish
+527,Cereal
+527,Ice Cream
+527,Noodles
+528,Water
+528,Chocolate
+528,Toothpaste
+528,Flour
+528,Toothbrush
+529,Shampoo
+529,Bread
+529,Onions
+530,Potatoes
+530,Ketchup
+530,Cheese
+531,Fish
+531,Coffee
+531,Mayonnaise
+531,Pasta
+531,Tomato Sauce
+532,Ice Cream
+532,Chocolate
+532,Bananas
+532,Cheese
+532,Chicken
+533,Toothbrush
+533,Apples
+533,Soap
+533,Sausage
+533,Bananas
+534,Noodles
+534,Ketchup
+534,Toothpaste
+534,Biscuits
+535,Pasta
+535,Tomato Sauce
+535,Cheese
+535,Rice
+535,Butter
+536,Chicken
+536,Onions
+536,Potatoes
+536,Juice
+536,Oranges
+536,Chips
+537,Chips
+537,Soft Drink
+537,Soap
+538,Toothbrush
+538,Toothpaste
+538,Salt
+538,Potatoes
+538,Water
+538,Apples
+539,Chicken
+539,Onions
+539,Potatoes
+539,Soft Drink
+540,Chips
+540,Ketchup
+540,Bananas
+540,Biscuits
+540,Chocolate
+541,Tea
+541,Soft Drink
+541,Mayonnaise
+541,Juice
+541,Onions
+541,Cooking Oil
+541,Yogurt
+542,Shampoo
+542,Soap
+543,Ice Cream
+543,Chocolate
+543,Juice
+543,Cheese
+543,Cereal
+544,Ice Cream
+544,Chocolate
+545,Cereal
+545,Milk
+545,Bananas
+546,Tea
+546,Sugar
+546,Biscuits
+546,Toothpaste
+547,Tea
+547,Sugar
+547,Biscuits
+547,Detergent
+547,Chicken
+548,Apples
+548,Rice
+548,Oranges
+549,Ice Cream
+549,Chocolate
+549,Chicken
+550,Toothbrush
+550,Toothpaste
+551,Noodles
+551,Cheese
+551,Toothpaste
+552,Juice
+552,Biscuits
+552,Apples
+553,Shampoo
+553,Soap
+554,Juice
+554,Biscuits
+554,Shampoo
+554,Soft Drink
+554,Bananas
+555,Bread
+555,Eggs
+555,Butter
+556,Juice
+556,Biscuits
+556,Flour
+556,Cereal
+556,Tissue
+557,Tea
+557,Sugar
+557,Biscuits
+557,Coffee
+557,Ketchup
+558,Tea
+558,Sugar
+558,Biscuits
+558,Flour
+558,Shampoo
+559,Bread
+559,Eggs
+559,Butter
+559,Tissue
+560,Tea
+560,Sugar
+560,Biscuits
+560,Toothbrush
+560,Salt
+560,Detergent
+561,Chips
+561,Soft Drink
+561,Flour
+562,Shampoo
+562,Soap
+563,Fish
+563,Coffee
+564,Toothbrush
+564,Toothpaste
+564,Bananas
+564,Fish
+564,Potatoes
+565,Coffee
+565,Sugar
+565,Biscuits
+566,Ketchup
+566,Butter
+566,Noodles
+567,Chips
+567,Soft Drink
+567,Fish
+568,Noodles
+568,Ketchup
+568,Toothbrush
+568,Soap
+568,Chocolate
+569,Chips
+569,Soft Drink
+569,Toothpaste
+569,Butter
+570,Soap
+570,Cooking Oil
+570,Oranges
+570,Chips
+570,Pasta
+571,Milk
+571,Bread
+571,Butter
+571,Mayonnaise
+571,Apples
+571,Coffee
+572,Coffee
+572,Sugar
+572,Biscuits
+572,Tomato Sauce
+573,Soft Drink
+573,Oranges
+573,Sugar
+573,Coffee
+573,Cooking Oil
+573,Shampoo
+574,Soft Drink
+574,Soap
+574,Noodles
+574,Detergent
+574,Sugar
+574,Cereal
+575,Ketchup
+575,Toothpaste
+575,Noodles
+575,Sausage
+576,Chips
+576,Coffee
+576,Bananas
+576,Eggs
+576,Noodles
+576,Detergent
+576,Soap
+577,Ice Cream
+577,Chocolate
+577,Tomato Sauce
+577,Oranges
+578,Bread
+578,Eggs
+578,Butter
+578,Onions
+578,Oranges
+579,Chicken
+579,Onions
+579,Potatoes
+580,Ice Cream
+580,Chocolate
+580,Apples
+580,Fish
+581,Toothbrush
+581,Milk
+581,Biscuits
+581,Onions
+582,Ice Cream
+582,Chocolate
+582,Cheese
+582,Toothpaste
+583,Toothbrush
+583,Toothpaste
+583,Fish
+584,Juice
+584,Biscuits
+584,Water
+584,Toothbrush
+585,Bread
+585,Eggs
+585,Butter
+585,Ice Cream
+585,Chips
+585,Biscuits
+586,Noodles
+586,Ketchup
+586,Bread
+586,Chocolate
+586,Sugar
+587,Milk
+587,Bread
+587,Butter
+587,Pasta
+587,Rice
+587,Soft Drink
+588,Chips
+588,Soft Drink
+589,Chips
+589,Soft Drink
+590,Chicken
+590,Onions
+590,Potatoes
+590,Eggs
+591,Chips
+591,Soft Drink
+591,Onions
+592,Ice Cream
+592,Chocolate
+593,Shampoo
+593,Soap
+594,Pasta
+594,Tomato Sauce
+594,Cheese
+594,Milk
+594,Ice Cream
+594,Coffee
+595,Coffee
+595,Chicken
+595,Cheese
+595,Salt
+595,Ice Cream
+596,Noodles
+596,Ketchup
+597,Cereal
+597,Milk
+597,Bananas
+597,Tea
+597,Oranges
+598,Tea
+598,Cheese
+598,Yogurt
+599,Bread
+599,Eggs
+599,Butter
+599,Fish
+600,Pasta
+600,Tomato Sauce
+600,Cheese
+600,Onions
+601,Shampoo
+601,Soap
+601,Biscuits
+602,Chocolate
+602,Toothbrush
+602,Ice Cream
+603,Toothbrush
+603,Toothpaste
+603,Coffee
+603,Pasta
+604,Coffee
+604,Sugar
+604,Biscuits
+604,Detergent
+605,Ice Cream
+605,Chocolate
+605,Bread
+605,Cereal
+606,Bread
+606,Eggs
+606,Butter
+606,Potatoes
+607,Milk
+607,Bread
+607,Butter
+607,Soap
+608,Pasta
+608,Tomato Sauce
+608,Cheese
+608,Biscuits
+608,Toothpaste
+608,Milk
+609,Coffee
+609,Ice Cream
+609,Toothpaste
+609,Bananas
+610,Chicken
+610,Onions
+610,Potatoes
+610,Yogurt
+611,Bread
+611,Toothbrush
+612,Chips
+612,Soft Drink
+612,Butter
+613,Sausage
+613,Ketchup
+613,Bananas
+613,Oranges
+613,Apples
+614,Rice
+614,Cooking Oil
+614,Salt
+614,Cereal
+615,Coffee
+615,Sugar
+615,Biscuits
+615,Flour
+616,Toothbrush
+616,Toothpaste
+617,Toothbrush
+617,Toothpaste
+617,Eggs
+618,Toothbrush
+618,Toothpaste
+619,Bread
+619,Eggs
+619,Butter
+620,Ice Cream
+620,Chocolate
+620,Coffee
+621,Tea
+621,Sugar
+621,Biscuits
+622,Cereal
+622,Milk
+622,Bananas
+622,Rice
+622,Apples
+623,Noodles
+623,Ketchup
+623,Chocolate
+623,Bread
+624,Toothbrush
+624,Toothpaste
+624,Yogurt
+624,Cheese
+625,Bread
+625,Eggs
+625,Butter
+626,Rice
+626,Cooking Oil
+626,Salt
+626,Eggs
+626,Soap
+627,Water
+627,Sugar
+627,Tomato Sauce
+628,Chocolate
+628,Salt
+628,Sausage
+628,Milk
+628,Butter
+628,Toothpaste
+629,Shampoo
+629,Soap
+629,Ice Cream
+629,Tea
+630,Juice
+630,Biscuits
+631,Ice Cream
+631,Chocolate
+631,Pasta
+631,Juice
+631,Tomato Sauce
+632,Ice Cream
+632,Chocolate
+632,Ketchup
+632,Cheese
+633,Coffee
+633,Sugar
+633,Biscuits
+634,Noodles
+634,Ketchup
+635,Onions
+635,Ketchup
+636,Cereal
+636,Biscuits
+636,Shampoo
+636,Onions
+637,Pasta
+637,Tomato Sauce
+637,Cheese
+637,Tissue
+637,Soft Drink
+638,Onions
+638,Water
+638,Toothbrush
+639,Soap
+639,Pasta
+639,Tea
+640,Toothbrush
+640,Toothpaste
+641,Cereal
+641,Milk
+641,Bananas
+642,Ice Cream
+642,Mayonnaise
+643,Rice
+643,Cooking Oil
+643,Salt
+643,Onions
+644,Milk
+644,Bread
+644,Butter
+644,Cereal
+645,Pasta
+645,Tomato Sauce
+645,Cheese
+645,Bananas
+645,Sausage
+645,Chips
+646,Rice
+646,Cooking Oil
+646,Salt
+646,Potatoes
+647,Bread
+647,Eggs
+647,Butter
+648,Tea
+648,Sugar
+648,Biscuits
+648,Juice
+649,Cereal
+649,Milk
+649,Bananas
+649,Soft Drink
+649,Fish
+649,Ketchup
+650,Pasta
+650,Tomato Sauce
+650,Cheese
+650,Chocolate
+651,Tea
+651,Sugar
+651,Biscuits
+651,Sausage
+651,Water
+651,Onions
+652,Cereal
+652,Milk
+652,Bananas
+652,Fish
+653,Chips
+653,Soft Drink
+654,Noodles
+654,Ketchup
+654,Butter
+654,Cooking Oil
+655,Tea
+655,Biscuits
+655,Pasta
+655,Soft Drink
+656,Milk
+656,Bread
+656,Butter
+656,Mayonnaise
+656,Salt
+657,Toothbrush
+657,Toothpaste
+657,Shampoo
+657,Pasta
+657,Chips
+658,Noodles
+658,Ketchup
+658,Chocolate
+659,Juice
+659,Biscuits
+659,Tea
+660,Toothbrush
+660,Toothpaste
+660,Biscuits
+660,Tissue
+661,Juice
+661,Biscuits
+662,Coffee
+662,Sugar
+662,Biscuits
+662,Fish
+663,Juice
+663,Chocolate
+664,Shampoo
+664,Soap
+665,Bread
+665,Eggs
+665,Butter
+665,Potatoes
+665,Soap
+665,Cheese
+666,Toothbrush
+666,Toothpaste
+666,Soft Drink
+667,Tea
+667,Sugar
+667,Biscuits
+667,Cereal
+667,Fish
+668,Tissue
+668,Pasta
+669,Shampoo
+669,Soap
+669,Toothbrush
+669,Chicken
+669,Eggs
+670,Toothbrush
+670,Toothpaste
+670,Bananas
+671,Noodles
+671,Ketchup
+671,Toothpaste
+672,Soft Drink
+672,Chicken
+672,Soap
+672,Fish
+672,Toothpaste
+673,Toothbrush
+673,Toothpaste
+673,Rice
+673,Bread
+674,Pasta
+674,Tomato Sauce
+674,Cheese
+675,Eggs
+675,Chicken
+675,Yogurt
+675,Soft Drink
+676,Sugar
+676,Chips
+676,Pasta
+677,Chips
+677,Soft Drink
+678,Toothpaste
+678,Ice Cream
+678,Soft Drink
+679,Rice
+679,Pasta
+679,Toothbrush
+680,Ice Cream
+680,Chocolate
+680,Tissue
+680,Bread
+681,Toothpaste
+681,Tea
+681,Flour
+681,Fish
+682,Tea
+682,Sugar
+682,Biscuits
+682,Butter
+682,Chips
+682,Eggs
+683,Pasta
+683,Tomato Sauce
+683,Cheese
+684,Milk
+684,Bread
+684,Butter
+684,Pasta
+684,Rice
+685,Tea
+685,Sugar
+685,Biscuits
+685,Eggs
+685,Bread
+686,Ice Cream
+686,Chocolate
+686,Coffee
+687,Cheese
+687,Water
+687,Apples
+687,Toothbrush
+688,Chips
+688,Soft Drink
+688,Tea
+688,Rice
+689,Fish
+689,Cereal
+689,Rice
+689,Shampoo
+689,Tissue
+690,Toothbrush
+690,Rice
+690,Ice Cream
+691,Ice Cream
+691,Chocolate
+691,Tea
+691,Flour
+692,Toothpaste
+692,Apples
+692,Tissue
+692,Butter
+692,Rice
+692,Cereal
+692,Salt
+693,Coffee
+693,Sugar
+693,Biscuits
+693,Flour
+693,Ice Cream
+693,Cheese
+694,Cereal
+694,Milk
+694,Bananas
+694,Chips
+695,Juice
+695,Potatoes
+695,Milk
+695,Tomato Sauce
+695,Cooking Oil
+695,Pasta
+695,Cheese
+696,Noodles
+696,Ketchup
+697,Ice Cream
+697,Potatoes
+698,Bananas
+698,Fish
+698,Ice Cream
+699,Toothbrush
+699,Toothpaste
+700,Salt
+700,Sugar
+700,Potatoes
+700,Cheese
+700,Butter
+700,Ketchup
